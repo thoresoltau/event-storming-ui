@@ -1,0 +1,7 @@
+id: HIVE-004
+type: feature
+title: "spring backend api bereitstellen"
+priority: medium
+status: backlog
+description: |
+  im spring boot backend service soll eine api bereitgestellt werden, die erst einmal nur POST und GET requests für die event-zetel bereitstellt. hier sollen später event-zettel gespeichert und wieder abgerufen werdne können.
