@@ -1,7 +1,7 @@
 id: HIVE-003
 type: feature
-title: "timer erstellen"
+title: "zettel implementieren"
 priority: medium
 status: backlog
 description: |
-  es soll möglich sein, einen timer einzustellen, der herunterzählt. damit sollen arbeitssessions begrenzt werden können.
+  es soll möglich sein, unterschiedliche zettel auf dem canvas hinzuzufügen. dafür brauchen wir mindestens einen hübschen button, der diese erstellt. pro zettel, der ein event darstellen soll, brauchen wir einen titel, aktoren und beschreibung. weiterhin sollten zettel miteinander via pfeil verknüpft werden können

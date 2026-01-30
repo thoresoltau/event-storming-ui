@@ -1,7 +1,7 @@
 id: HIVE-002
 type: feature
-title: "events persistieren"
-priority: medium
+title: "demo frontend aufsetzen"
+priority: high
 status: backlog
 description: |
-  in der ui soll jetzt die möglichkeit geschaffen werden, mittels eines buttons ein neues event grafisch darzustellen. zu diesem event gehört ein titel, beschreibung, und aktoren. das event soll sich dann als zettel auf einem infinity canvas bewegen lassen können via drag and drop
+  das frontend soll sichtbar sein mit einer demo seite die einen infinity canvas enthält. hier sollen später zettel drauf erstellt werden können, die vom user per drag and drop hin und hergeschoben werden sollen.
