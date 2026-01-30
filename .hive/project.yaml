@@ -10,6 +10,7 @@ tech_stack:
   frameworks:
   - react
   - tailwind
+  - vite
   databases: []
   tools: []
 conventions:
