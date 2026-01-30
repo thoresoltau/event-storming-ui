@@ -1,0 +1,7 @@
+id: HIVE-005
+type: feature
+title: "db aufsetzen"
+priority: high
+status: backlog
+description: |
+  es soll eine db existieren, die für das bff verfügbar ist und in einem docker container läuft. vorzugsweise mariaDB oder postgres

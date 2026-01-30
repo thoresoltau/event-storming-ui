@@ -1,0 +1,7 @@
+id: HIVE-002
+type: feature
+title: "events persistieren"
+priority: medium
+status: backlog
+description: |
+  in der ui soll jetzt die möglichkeit geschaffen werden, mittels eines buttons ein neues event grafisch darzustellen. zu diesem event gehört ein titel, beschreibung, und aktoren. das event soll sich dann als zettel auf einem infinity canvas bewegen lassen können via drag and drop

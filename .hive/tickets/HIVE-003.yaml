@@ -1,0 +1,7 @@
+id: HIVE-003
+type: feature
+title: "timer erstellen"
+priority: medium
+status: backlog
+description: |
+  es soll möglich sein, einen timer einzustellen, der herunterzählt. damit sollen arbeitssessions begrenzt werden können.
